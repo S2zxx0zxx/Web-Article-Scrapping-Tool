@@ -1,0 +1,37 @@
+archive=Article-Web-Scraping-main.zip
+valid_zip=True
+first_bad_member=
+member_count=31
+
+size	compressed	crc32	path
+0	0	00000000	Article-Web-Scraping-main/
+3078	1476	6ec1583e	Article-Web-Scraping-main/.gitignore
+35149	12112	97673d00	Article-Web-Scraping-main/LICENSE
+0	0	00000000	Article-Web-Scraping-main/NoteBook_Experiment/
+22956	3550	ee649fc9	Article-Web-Scraping-main/NoteBook_Experiment/Article Web Scraping.ipynb
+3997	1790	cd1aba83	Article-Web-Scraping-main/README.md
+1928	855	c40ab94f	Article-Web-Scraping-main/app.py
+3	3	91b418dc	Article-Web-Scraping-main/requirements.txt
+0	0	00000000	Article-Web-Scraping-main/saved_articles/
+0	0	00000000	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/
+6722	3215	0684efa1	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_0.txt
+6677	3094	f65e065e	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_1.txt
+4251	2118	ef2b0f89	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_2.txt
+9163	4143	7a3d4e89	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_3.txt
+4169	1977	c1e043b0	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_4.txt
+1175	556	fe50dc92	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_5.txt
+14274	6661	7d0328d3	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_6.txt
+6150	2860	e9509c09	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_7.txt
+2736	1248	43c968c7	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_8.txt
+5142	2321	79200101	Article-Web-Scraping-main/saved_articles/22_08_26_11_2023/article_9.txt
+0	0	00000000	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/
+6722	3215	0684efa1	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_0.txt
+6677	3094	f65e065e	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_1.txt
+4251	2118	ef2b0f89	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_2.txt
+9163	4143	7a3d4e89	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_3.txt
+4169	1977	c1e043b0	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_4.txt
+1175	556	fe50dc92	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_5.txt
+14274	6661	7d0328d3	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_6.txt
+6150	2860	e9509c09	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_7.txt
+2736	1248	43c968c7	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_8.txt
+5142	2321	79200101	Article-Web-Scraping-main/saved_articles/22_09_26_11_2023/article_9.txt
